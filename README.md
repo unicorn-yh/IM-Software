@@ -61,13 +61,14 @@ https://user-images.githubusercontent.com/73232964/196331955-0e9cb866-d5f3-4a14-
 
 
 <br />
+
 ### **System debug**
 
 In the process of building the project, as the team leader, some team members have different time to complete the module due to the assignment of tasks. Since it was my first time developing a server-related project, it was a bit stressful to hand over the server implementation to one team member. On the other hand, the modules written in front of the other four team members each refer to the database statement, and the team members who subsequently write the server must not only merge the code of the first four modules, but also have to put the written database in the client. Later, when I discovered this problem, I asked the first four team members (including myself) who were responsible for their respective modules to write the corresponding server and client code of their respective modules, and split the originally written code into two parts to facilitate the server's code.
 
 <br />
 
-###**Personal Summary**
+### **Personal Summary**
 
 This is first time I have been in direct contact to deal with the connection between the server and the client, and I have learned a lot of valuable knowledge. Due to my lack of team development experience, as the team leader, I did not properly assess the difficulty of each module when initially assigning tasks, resulting in some team members completing his part early, while others It takes more time to complete because of the difficulty of the module. One person is responsible for the modules such as registration and login, file transfer, private chat, and group chat, and the other person is responsible for the server, and the first four modules need to be integrated to realize the connection between the server and the client.
 
