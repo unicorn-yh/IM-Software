@@ -41,7 +41,7 @@ For the construction of the database, a user table is needed to store the user's
 
 ### **Database Entity Relationship diagram**
 
-![image-20221018113239217](README/image-20221018113239217.png)
+<img src="README/image-20221018113239217.png" alt="image-20221018113239217" style="zoom: 67%;" />
 
 <br />
 
