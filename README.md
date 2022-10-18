@@ -47,5 +47,9 @@ For the construction of the database, a user table is needed to store the user's
 ### **Video**
 
 Overall function demonstration
+https://user-images.githubusercontent.com/73232964/196331879-280b4078-2948-4902-9cbb-e9d57298bea3.mp4
 
- [整体功能.ogv](..\..\..\..\..\YH2022-2\计算机专业基础实习\文档\IM即时通讯系统-21组\02.项目运行录屏\整体功能.ogv) 
+Chat function demonstration
+https://user-images.githubusercontent.com/73232964/196331955-0e9cb866-d5f3-4a14-9837-80f041aa27a8.mp4
+
+
