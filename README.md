@@ -46,10 +46,16 @@ For the construction of the database, a user table is needed to store the user's
 
 ### **Video**
 
-Overall function demonstration
-https://user-images.githubusercontent.com/73232964/196331879-280b4078-2948-4902-9cbb-e9d57298bea3.mp4
+**Overall function demonstration**
 
-Chat function demonstration
+
+https://user-images.githubusercontent.com/73232964/196332069-d4c0e313-48a8-4434-9621-0e4d76d70932.mp4
+
+<br />
+
+
+**Chat function demonstration**
+
 https://user-images.githubusercontent.com/73232964/196331955-0e9cb866-d5f3-4a14-9837-80f041aa27a8.mp4
 
 
