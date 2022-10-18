@@ -32,10 +32,10 @@ For the construction of the database, a user table is needed to store the user's
 
 | Module         | **Module structure diagram**                                 |
 | -------------- | ------------------------------------------------------------ |
-| Overall System | ![image-20221018113040791](README/image-20221018113040791.png) |
-| File Transfer  | ![image-20221018113058809](README/image-20221018113058809.png) |
-| Settings       | ![image-20221018113054443](README/image-20221018113054443.png) |
-| Database       | ![image-20221018113049649](README/image-20221018113049649.png) |
+| Overall System | <img src="README/image-20221018113040791.png" alt="image-20221018113040791" style="zoom: 67%;" /> |
+| File Transfer  | <img src="README/image-20221018113058809.png" alt="image-20221018113058809" style="zoom: 67%;" /> |
+| Settings       | <img src="README/image-20221018113054443.png" alt="image-20221018113054443" style="zoom: 67%;" /> |
+| Database       | <img src="README/image-20221018113049649.png" alt="image-20221018113049649" style="zoom: 67%;" /> |
 
 <br />
 
